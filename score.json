@@ -1,0 +1,72 @@
+[
+    {
+        "player_name": "Primoz",
+        "score": 7,
+        "wrong": 6,
+        "secnumber": 21,
+        "date": "2024-07-23 09:03:44.024746"
+    },
+    {
+        "player_name": "Test",
+        "score": 7,
+        "wrong": 6,
+        "secnumber": 16,
+        "date": "2024-07-23 09:07:45.724065"
+    },
+    {
+        "player_name": "Test",
+        "score": 6,
+        "wrong": 5,
+        "secnumber": 13,
+        "date": "2024-07-23 09:13:31.642474"
+    },
+    {
+        "player_name": "FUNC",
+        "score": 7,
+        "wrong": 6,
+        "secnumber": 4,
+        "date": "2024-07-23 09:19:43.737728"
+    },
+    {
+        "player_name": "FUNC2",
+        "score": 6,
+        "wrong": 5,
+        "secnumber": 2,
+        "date": "2024-07-23 09:29:47.427197"
+    },
+    {
+        "player_name": "ATEMP",
+        "score": 8,
+        "wrong_attempts": 7,
+        "secret_number": 11,
+        "date": "2024-07-23 09:32:51.827303"
+    },
+    {
+        "player_name": "TEEEEEST",
+        "score": 6,
+        "wrong_attempts": 5,
+        "secret_number": 6,
+        "date": "2024-07-23 09:45:10.967855"
+    },
+    {
+        "player_name": "PRIMOZ",
+        "score": 8,
+        "wrong_attempts": 7,
+        "secret_number": 18,
+        "date": "2024-07-23 09:46:30.722631"
+    },
+    {
+        "player_name": "Primoz",
+        "score": 8,
+        "wrong_attempts": 7,
+        "secret_number": 27,
+        "date": "2024-07-23 09:47:21.666206"
+    },
+    {
+        "player_name": "PRIMOZ",
+        "score": 6,
+        "wrong_attempts": 5,
+        "secret_number": 29,
+        "date": "2024-07-23 09:58:11.602938"
+    }
+]
